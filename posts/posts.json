@@ -1,0 +1,26 @@
+[
+  {
+    "slug": "today-i-learned",
+    "title": "오늘 배운 것",
+    "date": "2026-09-08",
+    "excerpt": "클로드 코드로 블로그를 만들면서 정리한 HTML, CSS, JavaScript 각각의 역할."
+  },
+  {
+    "slug": "hello-world",
+    "title": "안녕하세요, 첫 글입니다",
+    "date": "2026-09-08",
+    "excerpt": "이 블로그는 마크다운 파일을 읽어서 정적 페이지로 보여주는 방식으로 만들어졌습니다."
+  },
+  {
+    "slug": "writing-in-markdown",
+    "title": "마크다운으로 글쓰기",
+    "date": "2026-09-05",
+    "excerpt": "제목, 목록, 코드블록, 인용문 등 마크다운 문법이 어떻게 렌더링되는지 살펴봅니다."
+  },
+  {
+    "slug": "dark-mode-thoughts",
+    "title": "다크모드에 대한 짧은 생각",
+    "date": "2026-08-30",
+    "excerpt": "시스템 설정을 따르면서도 직접 전환할 수 있는 다크모드를 만든 이유."
+  }
+]
