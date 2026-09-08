@@ -1,5 +1,11 @@
 [
   {
+    "slug": "optional-chaining-nullish-coalescing",
+    "title": "옵셔널 체이닝과 널 병합 연산자",
+    "date": "2026-09-08",
+    "excerpt": "?.와 ??로 중첩 속성 접근과 기본값 지정을 안전하고 간결하게 처리하는 법을 정리합니다."
+  },
+  {
     "slug": "today-i-learned",
     "title": "오늘 배운 것",
     "date": "2026-09-08",
