@@ -1,5 +1,11 @@
 [
   {
+    "slug": "debounce-and-throttle",
+    "title": "디바운스와 쓰로틀 쉽게 이해하기",
+    "date": "2026-09-09",
+    "excerpt": "연속으로 발생하는 이벤트를 다스리는 두 가지 대표 기법, 디바운스와 쓰로틀의 차이를 정리합니다."
+  },
+  {
     "slug": "optional-chaining-nullish-coalescing",
     "title": "옵셔널 체이닝과 널 병합 연산자",
     "date": "2026-09-08",
