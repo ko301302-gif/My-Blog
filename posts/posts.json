@@ -1,5 +1,11 @@
 [
   {
+    "slug": "array-map-filter-reduce",
+    "title": "배열 메서드 map, filter, reduce 이해하기",
+    "date": "2026-09-10",
+    "excerpt": "자바스크립트 배열을 다룰 때 자주 쓰는 map, filter, reduce의 차이와 함께 쓰는 법을 정리합니다."
+  },
+  {
     "slug": "debounce-and-throttle",
     "title": "디바운스와 쓰로틀 쉽게 이해하기",
     "date": "2026-09-09",
