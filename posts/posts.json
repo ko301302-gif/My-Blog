@@ -1,5 +1,11 @@
 [
   {
+    "slug": "destructuring-assignment",
+    "title": "구조 분해 할당으로 코드 간결하게 쓰기",
+    "date": "2026-09-11",
+    "excerpt": "배열과 객체에서 값을 꺼내 변수에 바로 담는 구조 분해 할당 문법을 예제와 함께 정리합니다."
+  },
+  {
     "slug": "array-map-filter-reduce",
     "title": "배열 메서드 map, filter, reduce 이해하기",
     "date": "2026-09-10",
