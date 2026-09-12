@@ -1,5 +1,11 @@
 [
   {
+    "slug": "shallow-vs-deep-copy",
+    "title": "얕은 복사와 깊은 복사, 헷갈리지 않게 정리하기",
+    "date": "2026-09-12",
+    "excerpt": "객체나 배열을 복사할 때 원본이 함께 바뀌는 문제를 얕은 복사와 깊은 복사의 차이로 설명합니다."
+  },
+  {
     "slug": "destructuring-assignment",
     "title": "구조 분해 할당으로 코드 간결하게 쓰기",
     "date": "2026-09-11",
