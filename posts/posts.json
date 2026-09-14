@@ -1,5 +1,11 @@
 [
   {
+    "slug": "event-delegation",
+    "title": "이벤트 위임(Event Delegation)으로 리스너 똑똑하게 관리하기",
+    "date": "2026-09-14",
+    "excerpt": "이벤트 버블링을 이용해 리스너 개수를 줄이고 동적으로 추가되는 요소까지 처리하는 이벤트 위임 기법을 정리합니다."
+  },
+  {
     "slug": "understanding-closures",
     "title": "클로저(Closure), 어렵지 않게 이해하기",
     "date": "2026-09-13",
