@@ -1,5 +1,11 @@
 [
   {
+    "slug": "hoisting-in-javascript",
+    "title": "호이스팅(Hoisting), 변수 선언이 끌어올려지는 이유",
+    "date": "2026-09-15",
+    "excerpt": "var, let/const, 함수 선언식이 각각 호이스팅되는 방식의 차이를 예제로 정리합니다."
+  },
+  {
     "slug": "event-delegation",
     "title": "이벤트 위임(Event Delegation)으로 리스너 똑똑하게 관리하기",
     "date": "2026-09-14",
