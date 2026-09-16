@@ -1,5 +1,11 @@
 [
   {
+    "slug": "event-loop-in-javascript",
+    "title": "이벤트 루프(Event Loop), 자바스크립트가 비동기를 처리하는 방법",
+    "date": "2026-09-16",
+    "excerpt": "싱글 스레드인 자바스크립트가 콜 스택과 태스크 큐를 통해 비동기 작업을 처리하는 원리를 정리합니다."
+  },
+  {
     "slug": "hoisting-in-javascript",
     "title": "호이스팅(Hoisting), 변수 선언이 끌어올려지는 이유",
     "date": "2026-09-15",
