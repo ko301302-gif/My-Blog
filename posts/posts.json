@@ -1,5 +1,11 @@
 [
   {
+    "slug": "promise-and-async-await",
+    "title": "Promise와 async/await로 비동기 코드 다루기",
+    "date": "2026-09-18",
+    "excerpt": "콜백 대신 Promise와 async/await로 비동기 코드를 읽기 쉽게 작성하는 방법을 정리합니다."
+  },
+  {
     "slug": "equality-operators-in-javascript",
     "title": "동등 연산자(==)와 일치 연산자(===), 무엇이 다를까",
     "date": "2026-09-17",
