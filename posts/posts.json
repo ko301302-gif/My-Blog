@@ -1,5 +1,11 @@
 [
   {
+    "slug": "spread-and-rest-operators",
+    "title": "스프레드 연산자와 나머지 연산자, ...은 언제 다르게 동작할까",
+    "date": "2026-09-19",
+    "excerpt": "같은 점 세 개(...) 문법이 위치에 따라 값을 펼치는 스프레드와 값을 모으는 나머지 연산자로 나뉘는 이유를 정리합니다."
+  },
+  {
     "slug": "promise-and-async-await",
     "title": "Promise와 async/await로 비동기 코드 다루기",
     "date": "2026-09-18",
