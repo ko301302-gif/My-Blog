@@ -1,5 +1,11 @@
 [
   {
+    "slug": "arrow-function-this",
+    "title": "화살표 함수와 일반 함수, this가 다르게 동작하는 이유",
+    "date": "2026-09-20",
+    "excerpt": "화살표 함수는 바깥의 this를 그대로 이어받고, 일반 함수는 호출 방식에 따라 this가 달라지는 차이를 정리합니다."
+  },
+  {
     "slug": "spread-and-rest-operators",
     "title": "스프레드 연산자와 나머지 연산자, ...은 언제 다르게 동작할까",
     "date": "2026-09-19",
