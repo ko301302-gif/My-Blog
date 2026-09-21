@@ -1,5 +1,11 @@
 [
   {
+    "slug": "map-and-set-basics",
+    "title": "Map과 Set, 객체와 배열만으론 아쉬울 때",
+    "date": "2026-09-21",
+    "excerpt": "객체와 배열만으로 부족할 때 쓰는 Map과 Set의 특징과 각각 언제 선택하면 좋은지 정리합니다."
+  },
+  {
     "slug": "arrow-function-this",
     "title": "화살표 함수와 일반 함수, this가 다르게 동작하는 이유",
     "date": "2026-09-20",
