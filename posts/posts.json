@@ -1,5 +1,11 @@
 [
   {
+    "slug": "error-handling-try-catch",
+    "title": "try/catch로 예외 다루기",
+    "date": "2026-09-22",
+    "excerpt": "try/catch/finally로 예상치 못한 에러를 처리하고 async 함수에서도 자연스럽게 활용하는 방법을 정리합니다."
+  },
+  {
     "slug": "map-and-set-basics",
     "title": "Map과 Set, 객체와 배열만으론 아쉬울 때",
     "date": "2026-09-21",
