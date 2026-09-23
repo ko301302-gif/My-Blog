@@ -1,5 +1,11 @@
 [
   {
+    "slug": "higher-order-functions-and-callbacks",
+    "title": "고차 함수와 콜백 함수, 자바스크립트다운 코드의 시작",
+    "date": "2026-09-23",
+    "excerpt": "함수를 값처럼 주고받는 콜백 함수와 고차 함수 개념을, 반복 로직 예제로 쉽게 정리합니다."
+  },
+  {
     "slug": "error-handling-try-catch",
     "title": "try/catch로 예외 다루기",
     "date": "2026-09-22",
