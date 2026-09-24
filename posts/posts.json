@@ -1,5 +1,11 @@
 [
   {
+    "slug": "type-coercion-in-javascript",
+    "title": "암묵적 형변환, 왜 \"1\" + 1은 \"11\"이 될까",
+    "date": "2026-09-24",
+    "excerpt": "타입이 다른 값끼리 연산할 때 자바스크립트가 알아서 타입을 맞추는 암묵적 형변환의 동작 방식을 정리합니다."
+  },
+  {
     "slug": "higher-order-functions-and-callbacks",
     "title": "고차 함수와 콜백 함수, 자바스크립트다운 코드의 시작",
     "date": "2026-09-23",
