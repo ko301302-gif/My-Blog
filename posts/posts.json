@@ -1,5 +1,11 @@
 [
   {
+    "slug": "call-apply-bind-this-binding",
+    "title": "call, apply, bind로 this 직접 지정하기",
+    "date": "2026-09-25",
+    "excerpt": "호출 방식과 상관없이 this를 직접 고정하는 call, apply, bind의 차이와 각각 언제 쓰면 좋은지 정리합니다."
+  },
+  {
     "slug": "type-coercion-in-javascript",
     "title": "암묵적 형변환, 왜 \"1\" + 1은 \"11\"이 될까",
     "date": "2026-09-24",
