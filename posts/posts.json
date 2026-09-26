@@ -1,5 +1,11 @@
 [
   {
+    "slug": "short-circuit-evaluation-and-ternary",
+    "title": "단축 평가와 삼항 연산자로 조건문 간결하게 쓰기",
+    "date": "2026-09-26",
+    "excerpt": "&&, ||의 단축 평가와 삼항 연산자로 간단한 조건 처리를 짧게 쓰는 법과 falsy 값 주의점을 정리합니다."
+  },
+  {
     "slug": "call-apply-bind-this-binding",
     "title": "call, apply, bind로 this 직접 지정하기",
     "date": "2026-09-25",
