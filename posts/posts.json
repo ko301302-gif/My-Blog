@@ -1,5 +1,11 @@
 [
   {
+    "slug": "template-literals",
+    "title": "템플릿 리터럴, 문자열을 더 편하게 다루는 방법",
+    "date": "2026-09-30",
+    "excerpt": "백틱과 ${}로 변수를 문자열에 끼워 넣고 여러 줄 문자열도 간결하게 쓰는 템플릿 리터럴 문법을 정리합니다."
+  },
+  {
     "slug": "prototype-and-prototype-chain",
     "title": "프로토타입(Prototype)과 프로토타입 체인",
     "date": "2026-09-29",
