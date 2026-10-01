@@ -1,5 +1,11 @@
 [
   {
+    "slug": "json-stringify-and-parse",
+    "title": "JSON.stringify와 JSON.parse, 객체와 문자열 사이 변환하기",
+    "date": "2026-10-01",
+    "excerpt": "객체를 문자열로 바꾸는 JSON.stringify와 문자열을 다시 객체로 되돌리는 JSON.parse의 쓰임과 주의점을 정리합니다."
+  },
+  {
     "slug": "template-literals",
     "title": "템플릿 리터럴, 문자열을 더 편하게 다루는 방법",
     "date": "2026-09-30",
