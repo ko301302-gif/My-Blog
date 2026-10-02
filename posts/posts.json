@@ -1,5 +1,11 @@
 [
   {
+    "slug": "settimeout-and-setinterval",
+    "title": "setTimeout과 setInterval, 타이머 함수 다루기",
+    "date": "2026-10-02",
+    "excerpt": "지정한 시간 뒤 한 번 실행하는 setTimeout과 일정 간격으로 반복 실행하는 setInterval의 차이와 주의점을 정리합니다."
+  },
+  {
     "slug": "json-stringify-and-parse",
     "title": "JSON.stringify와 JSON.parse, 객체와 문자열 사이 변환하기",
     "date": "2026-10-01",
