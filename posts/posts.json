@@ -1,5 +1,11 @@
 [
   {
+    "slug": "memoization-basics",
+    "title": "메모이제이션(Memoization)으로 반복 계산 줄이기",
+    "date": "2026-10-03",
+    "excerpt": "같은 입력에 대한 계산 결과를 캐싱해서 반복되는 연산을 줄이는 메모이제이션 기법을 간단한 구현과 함께 정리합니다."
+  },
+  {
     "slug": "settimeout-and-setinterval",
     "title": "setTimeout과 setInterval, 타이머 함수 다루기",
     "date": "2026-10-02",
