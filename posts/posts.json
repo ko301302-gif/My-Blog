@@ -1,5 +1,11 @@
 [
   {
+    "slug": "array-find-some-every",
+    "title": "배열 메서드 find, some, every로 조건 검사하기",
+    "date": "2026-10-04",
+    "excerpt": "조건에 맞는 값을 찾는 find, 하나라도 맞는지 확인하는 some, 전부 맞는지 확인하는 every의 차이를 정리합니다."
+  },
+  {
     "slug": "memoization-basics",
     "title": "메모이제이션(Memoization)으로 반복 계산 줄이기",
     "date": "2026-10-03",
