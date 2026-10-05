@@ -1,5 +1,11 @@
 [
   {
+    "slug": "for-in-vs-for-of",
+    "title": "for...in과 for...of, 반복문 뭐가 다를까",
+    "date": "2026-10-05",
+    "excerpt": "객체의 키를 순회하는 for...in과 값을 순회하는 for...of의 차이를 예제로 정리합니다."
+  },
+  {
     "slug": "array-find-some-every",
     "title": "배열 메서드 find, some, every로 조건 검사하기",
     "date": "2026-10-04",
