@@ -1,5 +1,11 @@
 [
   {
+    "slug": "var-let-const-scope",
+    "title": "var, let, const의 스코프 차이 이해하기",
+    "date": "2026-10-06",
+    "excerpt": "함수 스코프인 var와 블록 스코프인 let, const의 차이, 그리고 재선언·재할당 규칙을 정리합니다."
+  },
+  {
     "slug": "for-in-vs-for-of",
     "title": "for...in과 for...of, 반복문 뭐가 다를까",
     "date": "2026-10-05",
