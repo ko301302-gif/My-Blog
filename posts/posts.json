@@ -1,5 +1,11 @@
 [
   {
+    "slug": "strict-mode-in-javascript",
+    "title": "strict mode(엄격 모드)란 무엇일까",
+    "date": "2026-10-07",
+    "excerpt": "선언하지 않은 변수나 잘못된 this 참조 같은 실수를 미리 막아주는 strict mode의 동작 방식과 켜는 법을 정리합니다."
+  },
+  {
     "slug": "var-let-const-scope",
     "title": "var, let, const의 스코프 차이 이해하기",
     "date": "2026-10-06",
