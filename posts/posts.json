@@ -1,5 +1,11 @@
 [
   {
+    "slug": "array-slice-vs-splice",
+    "title": "배열 slice와 splice, 헷갈리는 이름 구분하기",
+    "date": "2026-10-10",
+    "excerpt": "원본을 바꾸지 않는 slice와 원본을 직접 수정하는 splice의 차이를 예제로 비교합니다."
+  },
+  {
     "slug": "javascript-class-basics",
     "title": "클래스(class)로 객체 만들기",
     "date": "2026-10-09",
