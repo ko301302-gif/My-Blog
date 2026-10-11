@@ -1,5 +1,11 @@
 [
   {
+    "slug": "function-currying",
+    "title": "커링(Currying), 함수를 하나씩 쪼개서 쓰기",
+    "date": "2026-10-11",
+    "excerpt": "여러 인자를 받는 함수를 인자 하나씩 받는 함수들의 연속으로 바꾸는 커링 기법을 간단한 예제로 정리합니다."
+  },
+  {
     "slug": "array-slice-vs-splice",
     "title": "배열 slice와 splice, 헷갈리는 이름 구분하기",
     "date": "2026-10-10",
