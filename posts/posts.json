@@ -1,5 +1,11 @@
 [
   {
+    "slug": "iife-immediately-invoked-function-expression",
+    "title": "즉시 실행 함수(IIFE), 정의하자마자 바로 실행하기",
+    "date": "2026-10-12",
+    "excerpt": "함수를 정의하자마자 바로 호출하는 IIFE 문법과, 독립된 스코프를 만들어주는 쓸모를 정리합니다."
+  },
+  {
     "slug": "function-currying",
     "title": "커링(Currying), 함수를 하나씩 쪼개서 쓰기",
     "date": "2026-10-11",
