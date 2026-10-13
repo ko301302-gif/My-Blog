@@ -1,5 +1,11 @@
 [
   {
+    "slug": "regular-expressions-basics",
+    "title": "정규표현식(RegExp), 문자열 패턴 찾아내기",
+    "date": "2026-10-13",
+    "excerpt": "슬래시로 패턴을 만들고 test, match, replace로 문자열에서 원하는 패턴을 찾고 바꾸는 정규표현식의 기초를 정리합니다."
+  },
+  {
     "slug": "iife-immediately-invoked-function-expression",
     "title": "즉시 실행 함수(IIFE), 정의하자마자 바로 실행하기",
     "date": "2026-10-12",
