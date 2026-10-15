@@ -1,5 +1,11 @@
 [
   {
+    "slug": "promise-all-race-allsettled",
+    "title": "Promise.all, race, allSettled 비교하기",
+    "date": "2026-10-15",
+    "excerpt": "여러 Promise를 동시에 다룰 때 쓰는 Promise.all, Promise.race, Promise.allSettled의 차이와 각각 언제 쓰면 좋은지 정리합니다."
+  },
+  {
     "slug": "regular-expressions-basics",
     "title": "정규표현식(RegExp), 문자열 패턴 찾아내기",
     "date": "2026-10-13",
