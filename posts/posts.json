@@ -1,5 +1,11 @@
 [
   {
+    "slug": "array-flat-and-flatmap",
+    "title": "배열 flat과 flatMap, 중첩 배열 펼치기",
+    "date": "2026-10-16",
+    "excerpt": "중첩 배열을 평평하게 펼치는 flat과, map 후 바로 펼쳐주는 flatMap의 사용법을 정리합니다."
+  },
+  {
     "slug": "promise-all-race-allsettled",
     "title": "Promise.all, race, allSettled 비교하기",
     "date": "2026-10-15",
