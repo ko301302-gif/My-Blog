@@ -1,5 +1,11 @@
 [
   {
+    "slug": "localstorage-and-sessionstorage",
+    "title": "localStorage와 sessionStorage, 브라우저에 데이터 저장하기",
+    "date": "2026-10-17",
+    "excerpt": "키-값으로 데이터를 저장하는 localStorage와 sessionStorage의 차이와 객체를 저장하는 법, 주의할 점을 정리합니다."
+  },
+  {
     "slug": "array-flat-and-flatmap",
     "title": "배열 flat과 flatMap, 중첩 배열 펼치기",
     "date": "2026-10-16",
