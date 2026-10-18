@@ -1,5 +1,11 @@
 [
   {
+    "slug": "object-freeze-and-immutability",
+    "title": "Object.freeze로 객체 불변성 지키기",
+    "date": "2026-10-18",
+    "excerpt": "객체를 더 이상 수정하지 못하게 고정하는 Object.freeze의 동작 방식과, 중첩 객체까지는 얼리지 못하는 얕은 동결의 함정을 정리합니다."
+  },
+  {
     "slug": "localstorage-and-sessionstorage",
     "title": "localStorage와 sessionStorage, 브라우저에 데이터 저장하기",
     "date": "2026-10-17",
