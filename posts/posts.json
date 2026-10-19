@@ -1,5 +1,11 @@
 [
   {
+    "slug": "typeof-vs-instanceof",
+    "title": "typeof와 instanceof, 데이터 타입 제대로 확인하기",
+    "date": "2026-10-19",
+    "excerpt": "기본 타입을 확인하는 typeof와 객체의 인스턴스 여부를 확인하는 instanceof의 차이, 그리고 배열 판별 시 주의할 점을 정리합니다."
+  },
+  {
     "slug": "object-freeze-and-immutability",
     "title": "Object.freeze로 객체 불변성 지키기",
     "date": "2026-10-18",
