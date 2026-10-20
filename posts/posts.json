@@ -1,5 +1,11 @@
 [
   {
+    "slug": "object-keys-values-entries",
+    "title": "Object.keys, values, entries로 객체 순회하기",
+    "date": "2026-10-20",
+    "excerpt": "객체의 키, 값, [키, 값] 쌍을 배열로 뽑아주는 Object.keys, Object.values, Object.entries의 사용법을 정리합니다."
+  },
+  {
     "slug": "typeof-vs-instanceof",
     "title": "typeof와 instanceof, 데이터 타입 제대로 확인하기",
     "date": "2026-10-19",
