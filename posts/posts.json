@@ -1,5 +1,11 @@
 [
   {
+    "slug": "logical-assignment-operators",
+    "title": "논리 할당 연산자(??=, ||=, &&=)로 조건부 할당 짧게 쓰기",
+    "date": "2026-10-21",
+    "excerpt": "값이 없을 때만 채우는 ??=, falsy면 채우는 ||=, 값이 있을 때만 갱신하는 &&=의 차이를 정리합니다."
+  },
+  {
     "slug": "object-keys-values-entries",
     "title": "Object.keys, values, entries로 객체 순회하기",
     "date": "2026-10-20",
