@@ -1,5 +1,11 @@
 [
   {
+    "slug": "array-from-basics",
+    "title": "Array.from으로 유사 배열과 이터러블을 배열로 바꾸기",
+    "date": "2026-10-22",
+    "excerpt": "NodeList나 arguments 같은 유사 배열, Set이나 문자열 같은 이터러블을 Array.from으로 배열로 바꾸는 법을 정리합니다."
+  },
+  {
     "slug": "logical-assignment-operators",
     "title": "논리 할당 연산자(??=, ||=, &&=)로 조건부 할당 짧게 쓰기",
     "date": "2026-10-21",
