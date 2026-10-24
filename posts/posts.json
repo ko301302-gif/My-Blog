@@ -1,5 +1,11 @@
 [
   {
+    "slug": "parseint-and-parsefloat",
+    "title": "parseInt와 parseFloat, 문자열을 숫자로 바꾸기",
+    "date": "2026-10-24",
+    "excerpt": "문자열을 숫자로 바꿀 때 쓰는 parseInt, parseFloat의 사용법과 Number()와의 차이를 정리합니다."
+  },
+  {
     "slug": "weakmap-and-weakset-basics",
     "title": "WeakMap과 WeakSet, 메모리 누수 걱정 없는 저장소",
     "date": "2026-10-23",
