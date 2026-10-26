@@ -1,5 +1,11 @@
 [
   {
+    "slug": "getter-and-setter-basics",
+    "title": "게터(getter)와 세터(setter), 프로퍼티에 함수 숨기기",
+    "date": "2026-10-26",
+    "excerpt": "값을 읽거나 쓸 때 함수가 실행되는 getter와 setter의 동작 방식과, 밑줄로 내부 변수를 구분하는 관례를 정리합니다."
+  },
+  {
     "slug": "object-assign-basics",
     "title": "Object.assign으로 객체 병합하기",
     "date": "2026-10-25",
