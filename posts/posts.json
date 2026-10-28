@@ -1,5 +1,11 @@
 [
   {
+    "slug": "es-modules-import-export",
+    "title": "ES 모듈(import/export)로 코드 나누기",
+    "date": "2026-10-28",
+    "excerpt": "export와 import로 파일마다 독립된 스코프를 만들어 전역 변수 충돌 없이 코드를 나누는 ES 모듈의 기초를 정리합니다."
+  },
+  {
     "slug": "default-parameters-in-functions",
     "title": "매개변수 기본값(Default Parameters), 빈 값 걱정 덜어내기",
     "date": "2026-10-27",
