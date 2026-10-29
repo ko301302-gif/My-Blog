@@ -1,5 +1,11 @@
 [
   {
+    "slug": "useful-string-methods",
+    "title": "자주 쓰는 문자열 메서드로 깔끔하게 다루기",
+    "date": "2026-10-29",
+    "excerpt": "trim, includes, padStart/padEnd 등 자주 쓰는 문자열 메서드로 공백 제거, 포함 확인, 자릿수 맞추기를 간단히 처리하는 법을 정리합니다."
+  },
+  {
     "slug": "es-modules-import-export",
     "title": "ES 모듈(import/export)로 코드 나누기",
     "date": "2026-10-28",
